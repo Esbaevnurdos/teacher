@@ -1,0 +1,230 @@
+[
+  {
+    "id": 1,
+    "name": "Beshbarmak",
+    "history": "Beshbarmak is a traditional Kazakh dish, often referred to as the national dish of Kazakhstan.",
+    "ingredients": ["Meat (lamb or beef)", "Onions", "Pasta dough"],
+    "recipe": "Boil the meat, prepare the dough, and serve together with onion broth.",
+    "instructions": [
+      "Boil the meat until tender.",
+      "Prepare pasta dough and cut into thin slices.",
+      "Cook the pasta slices in the meat broth.",
+      "Serve the meat over pasta with onion broth."
+    ],
+    "picture_url": "https://www.willflyforfood.net/wp-content/uploads/2021/07/kazakh-food-beshbarmak.jpg.webp"
+  },
+  {
+    "id": 2,
+    "name": "Manty",
+    "history": "Dumplings filled with minced meat and onions, steamed to perfection. Commonly served with sour cream or butter.",
+    "ingredients": ["Dough", "Minced lamb or beef", "Onions", "Spices"],
+    "recipe": "Fill dough with spiced meat, shape into dumplings, and steam.",
+    "instructions": [
+      "Prepare dough and let it rest.",
+      "Roll dough into circles and fill with meat.",
+      "Fold into dumplings and steam until cooked."
+    ],
+    "picture_url": "https://www.willflyforfood.net/wp-content/uploads/2021/07/kazakh-food-manti.jpg.webp"
+  },
+  {
+    "id": 3,
+    "name": "Plov",
+    "history": "Plov, or pilaf, is a beloved rice dish in Central Asia, often cooked with meat, carrots, and aromatic spices.",
+    "ingredients": [
+      "Rice",
+      "Lamb or beef",
+      "Carrots",
+      "Onions",
+      "Garlic",
+      "Cumin",
+      "Salt",
+      "Pepper"
+    ],
+    "recipe": "Cook onions, meat, and carrots together, add rice, spices, and water, then simmer until done.",
+    "instructions": [
+      "Heat oil in a large pot and sauté onions until golden.",
+      "Add meat and cook until browned.",
+      "Stir in carrots and cook until softened.",
+      "Add rice, garlic, and spices, then pour in water.",
+      "Simmer on low heat until rice absorbs the water and is fully cooked.",
+      "Fluff the rice gently with a fork before serving."
+    ],
+    "picture_url": "https://www.willflyforfood.net/wp-content/uploads/2021/07/kazakh-food-pilaf.jpg.webp"
+  },
+  {
+    "id": 4,
+    "name": "Kazy",
+    "history": "A traditional Kazakh sausage made from horse meat, often served during festive meals.",
+    "ingredients": [
+      "Horse rib meat",
+      "Natural casing",
+      "Garlic",
+      "Salt and spices"
+    ],
+    "recipe": "Season horse rib meat, stuff into natural casing, and boil or smoke.",
+    "instructions": [
+      "Marinate rib meat with spices and garlic.",
+      "Stuff the casing with meat.",
+      "Cook by boiling or smoking until ready."
+    ],
+    "picture_url": "https://www.willflyforfood.net/wp-content/uploads/2021/07/kazakh-food-kazy.jpg.webp"
+  },
+  {
+    "id": 5,
+    "name": "Baursak",
+    "history": "Fried dough balls or discs, often enjoyed as a snack or dessert. They symbolize hospitality.",
+    "ingredients": ["Flour", "Yeast", "Milk", "Sugar", "Oil for frying"],
+    "recipe": "Prepare dough, let it rise, shape, and deep-fry until golden.",
+    "instructions": [
+      "Mix ingredients and knead dough.",
+      "Let the dough rise, then cut into small pieces.",
+      "Deep-fry until puffed and golden."
+    ],
+    "picture_url": "https://www.willflyforfood.net/wp-content/uploads/2021/07/kazakh-food-baursak.jpg.webp"
+  },
+  {
+    "id": 6,
+    "name": "Shashlik",
+    "history": "Marinated meat skewers grilled over open flames, popular at social gatherings.",
+    "ingredients": ["Lamb or beef", "Onions", "Vinegar and spices"],
+    "recipe": "Marinate meat, thread onto skewers, and grill over charcoal.",
+    "instructions": [
+      "Marinate meat with onions, vinegar, and spices.",
+      "Thread onto skewers.",
+      "Grill over hot coals until tender and charred."
+    ],
+    "picture_url": "https://jennifereremeeva.com/wp-content/uploads/2024/10/FOOD_MAINS_DACHA-SHASHLIK-3.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Kymyz",
+    "history": "Fermented mare’s milk, a refreshing and slightly alcoholic traditional drink.",
+    "ingredients": ["Fresh mare’s milk", "Fermenting agent"],
+    "recipe": "Ferment mare’s milk for a tangy, fizzy drink.",
+    "instructions": [
+      "Collect fresh mare’s milk.",
+      "Add a fermenting agent and let it rest.",
+      "Stir regularly and serve chilled."
+    ],
+    "picture_url": "https://www.willflyforfood.net/wp-content/uploads/2021/07/kazakh-food-kumis.jpg.webp"
+  },
+  {
+    "id": 8,
+    "name": "Sirne",
+    "history": "A traditional lamb stew prepared in a cauldron, often during outdoor events or celebrations.",
+    "ingredients": [
+      "Lamb",
+      "Potatoes",
+      "Onions",
+      "Spices (like bay leaves and peppercorns)"
+    ],
+    "recipe": "Slow-cook lamb with potatoes and spices for a rich, hearty meal.",
+    "instructions": [
+      "Sear lamb in a pot.",
+      "Add onions, potatoes, and spices.",
+      "Cover with water and simmer until tender.",
+      "Serve with fresh herbs."
+    ],
+    "picture_url": "https://media.gettyimages.com/id/1182532785/photo/kuyrdak-with-lamb-ribs-and-liver.jpg?s=612x612&w=0&k=20&c=XQuipjVvo-Xa08LrD5up8L9AvcSWDYsNTG5wgTSS1R8="
+  },
+  {
+    "id": 9,
+    "name": "Lagman",
+    "history": "A noodle dish of Uyghur origin, popular in Kazakhstan. Lagman combines hand-pulled noodles with meat and vegetable stew.",
+    "ingredients": [
+      "Hand-pulled noodles",
+      "Beef or lamb",
+      "Bell peppers",
+      "Tomatoes",
+      "Onions",
+      "Garlic",
+      "Cumin",
+      "Chili"
+    ],
+    "recipe": "Prepare noodles and serve with a spiced meat and vegetable sauce.",
+    "instructions": [
+      "Cook noodles until tender.",
+      "Stir-fry meat with vegetables and spices.",
+      "Combine noodles with the sauce and serve."
+    ],
+    "picture_url": "https://www.willflyforfood.net/wp-content/uploads/2021/07/kazakh-food-lagman.jpg.webp"
+  },
+  {
+    "id": 10,
+    "name": "Burme",
+    "history": "A savory pastry filled with meat and onions, resembling a spiral. Often baked in tandyr ovens.",
+    "ingredients": ["Dough", "Minced meat", "Onions", "Spices"],
+    "recipe": "Roll dough with meat filling into a spiral and bake until golden.",
+    "instructions": [
+      "Roll out dough thinly and layer with meat filling.",
+      "Roll into a spiral and seal.",
+      "Bake until crispy and golden."
+    ],
+    "picture_url": "https://media.gettyimages.com/id/85628271/photo/lobster-entree.jpg?s=612x612&w=0&k=20&c=DevNpWri3aOjf_y4GifDVRTtSZPHTdQZ6smDVtL82zw="
+  },
+  {
+    "id": 11,
+    "name": "Shubat",
+    "history": "Fermented camel milk, a staple in southern Kazakhstan, prized for its refreshing and nutritious qualities.",
+    "ingredients": ["Fresh camel milk", "Fermenting agent"],
+    "recipe": "Ferment camel milk for a tangy, slightly fizzy drink.",
+    "instructions": [
+      "Collect fresh camel milk.",
+      "Mix with a fermenting agent and let rest.",
+      "Stir regularly and serve chilled."
+    ],
+    "picture_url": "https://www.willflyforfood.net/wp-content/uploads/2021/07/kazakh-food-shubat.jpg.webp"
+  },
+  {
+    "id": 12,
+    "name": "Tandyr Nan",
+    "history": "Traditional bread baked in a tandyr oven, known for its chewy texture and slightly smoky flavor.",
+    "ingredients": ["Flour", "Yeast", "Water", "Salt"],
+    "recipe": "Knead dough, shape into flat discs, and bake in a tandyr.",
+    "instructions": [
+      "Mix dough ingredients and let it rise.",
+      "Shape dough into flat rounds.",
+      "Bake in a preheated tandyr oven until golden."
+    ],
+    "picture_url": "https://www.willflyforfood.net/wp-content/uploads/2021/07/kazakh-food-tohax.jpg.webp"
+  },
+  {
+    "id": 13,
+    "name": "Samsa",
+    "history": "Meat-filled pastries baked in a tandyr or oven, similar to samosas, enjoyed as snacks or meals.",
+    "ingredients": ["Dough", "Minced meat", "Onions", "Spices"],
+    "recipe": "Fill dough with seasoned meat, fold into triangles, and bake.",
+    "instructions": [
+      "Roll out dough and cut into squares.",
+      "Fill with meat and seal edges.",
+      "Bake until golden brown."
+    ],
+    "picture_url": "https://media.gettyimages.com/id/995754208/photo/samsa-with-a-pumpkin.jpg?s=612x612&w=0&k=20&c=olRhNkD0FdZ9Pm2S_6_96FiGkMeP4pzaJFUCdld7dWk="
+  },
+  {
+    "id": 14,
+    "name": "Tushpara",
+    "history": "Kazakh dumplings similar to pelmeni, often served in broth as a comforting meal.",
+    "ingredients": ["Dough", "Minced meat", "Onions", "Broth"],
+    "recipe": "Fill dough with meat, boil in broth, and serve hot.",
+    "instructions": [
+      "Roll out dough and cut into circles.",
+      "Add meat filling, fold, and seal edges.",
+      "Cook dumplings in boiling broth and serve."
+    ],
+    "picture_url": "https://media.gettyimages.com/id/1280919706/photo/bowl-of-russian-pelmeni-dumplings-with-a-bowl-of-sour-cream.jpg?s=612x612&w=0&k=20&c=qAewUPpg89L3rMzCaxYvKkiIBRceYCa1i_VJ4f0pAF4="
+  },
+  {
+    "id": 15,
+    "name": "Orama Nan",
+    "history": "A layered bread rolled with savory fillings, often enjoyed with tea.",
+    "ingredients": ["Dough", "Onions", "Spices"],
+    "recipe": "Roll out dough, layer with onions and spices, roll into a log, and bake.",
+    "instructions": [
+      "Roll out dough thinly.",
+      "Spread onion and spice mixture evenly.",
+      "Roll into a log, slice, and bake until golden."
+    ],
+    "picture_url": "https://www.willflyforfood.net/wp-content/uploads/2021/07/kazakh-food-shelpek.jpg.webp"
+  }
+]
