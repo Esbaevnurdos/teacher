@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Dish Info</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 20px;
+        padding: 0;
+        background-color: #f4f4f4;
+      }
+      h1 {
+        text-align: center;
+      }
+      .dish-container {
+        max-width: 600px;
+        margin: 20px auto;
+        padding: 20px;
+        background-color: #fff;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        border-radius: 8px;
+      }
+      .dish {
+        margin-bottom: 20px;
+      }
+      .error {
+        color: red;
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Dish Information</h1>
+    <div class="dish-container">
+      <div id="dish-info" class="dish">Loading dish information...</div>
+      <div id="error-message" class="error"></div>
+    </div>
+
+    <script>
+      // API URL
+      const apiUrl = "https://teacher-3kzh.onrender.com/api/dishes";
+
+      // Function to fetch dish data
+      async function fetchDish() {
+        try {
+          const response = await fetch(apiUrl);
+          if (!response.ok) {
+            throw new Error(`HTTP error! Status: ${response.status}`);
+          }
+
+          const data = await response.json();
+          // Find the dish with ID 15
+          const dish = data.find((dish) => dish.id === 15);
+
+          // Update the HTML with the dish info
+          const dishInfoDiv = document.getElementById("dish-info");
+          if (dish) {
+            dishInfoDiv.innerHTML = `
+            <h2>${dish.name}</h2>
+            <p><strong>Description:</strong> ${dish.description}</p>
+            <p><strong>Price:</strong> $${dish.price}</p>
+          `;
+          } else {
+            dishInfoDiv.innerHTML = "<p>Dish with ID 15 not found.</p>";
+          }
+        } catch (error) {
+          // Display error message
+          const errorDiv = document.getElementById("error-message");
+          errorDiv.textContent = `Error fetching data: ${error.message}`;
+        }
+      }
+
+      // Fetch the dish data on page load
+      fetchDish();
+    </script>
+  </body>
+</html>
